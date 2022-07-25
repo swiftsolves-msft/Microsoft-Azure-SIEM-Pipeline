@@ -1,0 +1,5 @@
+Vendor, Module, EventHub Supported, Graph API Supported, Documentation links
+QRadar, Protocol Configuration, Yes, Yes, https://www.ibm.com/docs/en/dsm?topic=options-configuring-microsoft-azure-event-hubs-communicate-qradar | https://www.ibm.com/docs/en/dsm?topic=options-microsoft-graph-security-api-protocol-configuration
+Rapid7, Rapid7 Insight IDR,Yes,No,https://docs.rapid7.com/insightidr/microsoft-azure/
+Splunk, Splunk Add On for Microsoft Cloud Services, Yes, No, https://splunkbase.splunk.com/app/3110/ | https://docs.splunk.com/Documentation/AddOns/released/MSCloudServices/About
+Splunk, Microsoft graph Security API Add-On for Splunk,No,Yes,https://splunkbase.splunk.com/app/4564/
