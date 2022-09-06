@@ -1,6 +1,6 @@
 Vendor, Module, EventHub Supported, Graph API Supported, Documentation links
 ArcSight, SmartConnector, Yes, No, https://www.microfocus.com/documentation/arcsight/arcsight-smartconnectors/#gsc.tab=0
-LogRhythm, Open Collector, Yes, No, https://logrhythm.com/blog/six-tips-for-securing-your-azure-cloud-environment/
+LogRhythm, Open Collector, Yes, No, https://logrhythm.com/blog/six-tips-for-securing-your-azure-cloud-environment/ | https://docs.logrhythm.com/docs/OCbeats/azure-event-hubs-beat
 Logz.io, Azure Function, Yes, No, https://docs.microsoft.com/en-us/azure/developer/java/fundamentals/java-get-started-with-logzio
 QRadar, Protocol Configuration, Yes, Yes, https://www.ibm.com/docs/en/dsm?topic=options-configuring-microsoft-azure-event-hubs-communicate-qradar | https://www.ibm.com/docs/en/dsm?topic=options-microsoft-graph-security-api-protocol-configuration
 Rapid7, Rapid7 Insight IDR,Yes,No,https://docs.rapid7.com/insightidr/microsoft-azure/
